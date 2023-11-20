@@ -2,7 +2,7 @@
 </br>
 Este é um exemplo de como criar uma API Flask no Google Colab que lê e retorna dados de um arquivo JSON.
 
-Este é um projeto para criar um clone da página de login do Instagram usando HTML, CSS e JavaScript. 
+
 
 ## 1.Passos para executar a API
 
